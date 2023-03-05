@@ -21,3 +21,18 @@ Air pollution is very serious in many parts of the world. Nine out of ten people
 The pollutant that affects people the most is particulate matter, usually abbreviated as PM and used as a measure of air pollution. Although particles with a diameter of 10 microns or less (≤PM10) can penetrate and embed deep in the lungs, the ones that are more harmful to health are those with a diameter of 2.5 microns or less (≤PM2.5). These particles are very small, only one 60th the diameter of a human hair.
 
 Source: iqair https://www.iqair.com/china/beijing
+
+## Attribute Information:
+- no: row number
+- year: year of data in this row
+- month: month of data in this row
+- day: day of data in this row
+- hour: hour of data in this row
+- pm2.5: PM 2.5 concentration (ug/m^3)
+- DEWP: Dew Point (a,,f) (the temperature to which air must be cooled to become saturated with water vapor, assuming constant air pressure and water content.)
+- TEMP:Temperature (a,,f)
+- PRES: Pressure (hPa)
+- cbwd: Combined wind direction
+- lws: Cumulated wind speed (m/s)
+- Is: Cumulated hours of snow
+- Ir: Cumulated hours of rain
