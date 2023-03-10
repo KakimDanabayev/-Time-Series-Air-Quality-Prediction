@@ -1,4 +1,4 @@
-# -Air-Quality-Dataset
+# [Time-Series] Air-Quality-Prediction Dataset
 ![beijing-air-pollution](https://user-images.githubusercontent.com/127029668/222965243-f963b139-091a-42bd-b9f2-84ccfa152eef.jpg)
 
 The dataset contains PM2.5 of hourly averaged responses from sensors embedded in an Air Quality Device recorded by the US Embassy in Beijing from 2010 to 2014 (four year)..
