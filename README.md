@@ -45,7 +45,7 @@ An increase in personal wealth can also have an influence here. With surplus mon
 
 Source: iqair https://www.iqair.com/china/beijing
 
-## Air pllution influence to health
+## Air pollution influence to health
 
 Most common health issues are a sore throat and cough. Over the past decade, lung cancer rates have risen by over 60%. Other consequences of air pollution in Beijing include yellow skies, higher mortality rates, and cancelled flights due to low visibility levels.
 
