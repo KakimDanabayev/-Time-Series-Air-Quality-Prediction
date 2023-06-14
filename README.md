@@ -72,7 +72,7 @@ Source: iqair https://www.iqair.com/china/beijing
 
 ## Conclusion & Findings 
 
-This hourly dataset contains the PM2.5 data from US Embassy in Beijing that tracked the city pollution level from 2010-2014. We found that there was a positive correlation between "Temperature" ad "Dew point" variables (r = 0.82), and negative correlation between "PRES" and "Dew point" (r = -0.78), "Pres" and "Temperatures" (r = -0.83). Therefore, while "Temperature" is increasing the "Dew point" is increasing too. While "PRES" is decreasing, "Dew point" is increasing.
+This hourly dataset contains the PM2.5 data from US Embassy in Beijing that tracked the city pollution level from 2010-2014. I found that there was a positive correlation between "Temperature" ad "Dew point" variables (r = 0.82), and negative correlation between "PRES" and "Dew point" (r = -0.78), "Pres" and "Temperatures" (r = -0.83). Therefore, while "Temperature" is increasing the "Dew point" is increasing too. While "PRES" is decreasing, "Dew point" is increasing.
 
 First, the highest pollution level was tracked when the temperature was between -10 and 0 degrees of Celsius. We also found out that dew point, atmospheric temperature, atmospheric pressure have cyclicity.
 
