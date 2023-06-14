@@ -74,13 +74,13 @@ Source: iqair https://www.iqair.com/china/beijing
 
 This hourly dataset contains the PM2.5 data from US Embassy in Beijing that tracked the city pollution level from 2010-2014. I found that there was a positive correlation between "Temperature" ad "Dew point" variables (r = 0.82), and negative correlation between "PRES" and "Dew point" (r = -0.78), "Pres" and "Temperatures" (r = -0.83). Therefore, while "Temperature" is increasing the "Dew point" is increasing too. While "PRES" is decreasing, "Dew point" is increasing.
 
-First, the highest pollution level was tracked when the temperature was between -10 and 0 degrees of Celsius. We also found out that dew point, atmospheric temperature, atmospheric pressure have cyclicity.
+First, the highest pollution level was tracked when the temperature was between -10 and 0 degrees of Celsius. I also found out that dew point, atmospheric temperature, atmospheric pressure have cyclicity.
 
 Second, meteorological feature weather parameters (dew point, atmospheric temperature, atmospheric pressure, wind direction, wind speed, snow, rain) affect air quality. For example, high wind speed will reduce the concentration of PM2.5, high humidity generally worsens air pollution, and high air pressure generally results in good air quality. Therefore, meteorological parameters are of prime importance for the task of forecasting air quality.
 
 Third, when wind speed was reaching 400-500 (m/s) the level of pollution in the city was low whereas when the wind speed was low below 100 (m/s) the level of pollution was high. In the meantime, the temperature did not predict pollution level based on this graph.
 
-Fourth, we found out that when there were more than 20-25 hours of snow, the level of pollution in the city was not as low as if it was with the rain. In the case when it was 30-36 hours of rain, the level of pollution in the city was low whereas when there was no rain the level of pollution was high.
+Fourth, I found out that when there were more than 20-25 hours of snow, the level of pollution in the city was not as low as if it was with the rain. In the case when it was 30-36 hours of rain, the level of pollution in the city was low whereas when there was no rain the level of pollution was high.
 
 Fifth, in each 47 weeks from 2010-2014, when the wind speeds were slow the air pollution was high. Each 7th week from 2010-2014 air pollution was the worst during the winter time due to the colder weather and high energy consumption.
 
