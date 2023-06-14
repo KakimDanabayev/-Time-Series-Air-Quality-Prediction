@@ -7,7 +7,7 @@ The dataset contains PM2.5 of hourly averaged responses from sensors embedded in
 - Conduct an analysis of multivariate time and use LSTM to predict future air pollution level using the past values, develop and compare different approaches to time-series problems.
 
 ## Role
-Worked 21 hours a week as a data scientist within a team of 4 to perform and developed a model that could predict time-series prediction tasks.
+Worked 21 hours a week as a data scientist to perform and developed a model that could predict time-series prediction tasks.
 Data Analysis (using different analysing techniques) & Visualisation
 Data Preprocessing for LSTM models  
 Feature Engineering using various techniques 
